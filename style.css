@@ -1,0 +1,13 @@
+body {
+    background-color: #121212;
+    color: hsla(360, 100%, 100%, .85);
+    font-size: 2rem;
+}
+
+.bookCard {
+    background-color: purple;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    font-size: 1.5rem;
+}
